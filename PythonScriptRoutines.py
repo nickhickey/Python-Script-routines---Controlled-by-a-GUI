@@ -1,8 +1,4 @@
 #Author: Nicholas Hickey
-#IMD 3002 
-#Assignment 03
-
-
 
 import maya.cmds as cmds
 import random as rnd
